@@ -13,9 +13,7 @@ namespace Working_01
     public partial class Form1 : Form
     {
       
-        /// <summary>
-        /// /////////////////////////Değiştirdim
-        /// </summary>
+       
             public Form1()
             {
                 InitializeComponent();
